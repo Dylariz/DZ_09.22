@@ -1,0 +1,7 @@
+C:\Users\zarec\Desktop\DZ 09.22\Level 3\bin\Debug\Level_3.exe
+C:\Users\zarec\Desktop\DZ 09.22\Level 3\bin\Debug\Level_3.pdb
+C:\Users\zarec\Desktop\DZ 09.22\Level 3\obj\Debug\Level 3.csproj.AssemblyReference.cache
+C:\Users\zarec\Desktop\DZ 09.22\Level 3\obj\Debug\Level 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\zarec\Desktop\DZ 09.22\Level 3\obj\Debug\Level 3.csproj.CoreCompileInputs.cache
+C:\Users\zarec\Desktop\DZ 09.22\Level 3\obj\Debug\Level_3.exe
+C:\Users\zarec\Desktop\DZ 09.22\Level 3\obj\Debug\Level_3.pdb
