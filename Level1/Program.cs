@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Level_1
+namespace Level1
 {
     internal class Program
     {

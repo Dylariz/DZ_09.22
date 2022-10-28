@@ -1,10 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level 1", "Level 1\Level 1.csproj", "{41B64D5F-C7FE-4912-9835-B4B30D86A6A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level1", "Level1\Level1.csproj", "{41B64D5F-C7FE-4912-9835-B4B30D86A6A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level 2", "Level 2\Level 2.csproj", "{A0CCBA1D-4AB7-4040-9568-62827A2A3ECC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level2", "Level2\Level2.csproj", "{A0CCBA1D-4AB7-4040-9568-62827A2A3ECC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level 3", "Level 3\Level 3.csproj", "{9F4BA39E-1F07-4D41-885D-1DF239406E5C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Level3", "Level3\Level3.csproj", "{9F4BA39E-1F07-4D41-885D-1DF239406E5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

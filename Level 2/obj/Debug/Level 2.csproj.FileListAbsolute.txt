@@ -1,7 +1,0 @@
-C:\Users\m2204359\Desktop\DZ_09.22-master\Level 2\bin\Debug\Level_2.exe
-C:\Users\m2204359\Desktop\DZ_09.22-master\Level 2\bin\Debug\Level_2.pdb
-C:\Users\m2204359\Desktop\DZ_09.22-master\Level 2\obj\Debug\Level 2.csproj.AssemblyReference.cache
-C:\Users\m2204359\Desktop\DZ_09.22-master\Level 2\obj\Debug\Level 2.csproj.SuggestedBindingRedirects.cache
-C:\Users\m2204359\Desktop\DZ_09.22-master\Level 2\obj\Debug\Level 2.csproj.CoreCompileInputs.cache
-C:\Users\m2204359\Desktop\DZ_09.22-master\Level 2\obj\Debug\Level_2.exe
-C:\Users\m2204359\Desktop\DZ_09.22-master\Level 2\obj\Debug\Level_2.pdb

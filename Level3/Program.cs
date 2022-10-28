@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Level_3
+namespace Level3
 {
     internal class Program
     {
@@ -10,12 +10,11 @@ namespace Level_3
             {
                 double s = 0;
                 int i = 0;
-                
+
                 while (true)
                 {
-                    double a = 0;
-
-                    a = Math.Pow(-1, i) * Math.Pow(x, 2 * i) / Factorial(2 * i);
+                    double a = Math.Pow(-1, i) * Math.Pow(x, 2 * i) / Factorial(2 * i);
+                    
                     
                     if (Math.Abs(a) < 0.0001)
                     {
@@ -25,6 +24,7 @@ namespace Level_3
                     s += a;
                     i++;
                 }
+                
                 Console.WriteLine($"X: {x}; S: {s};  Y: {Math.Cos(x)};  Last i: {i};");
             }
         }
